@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your OnlyFans Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+        .profile-image {
+            border-radius: 10px;
+            width: 100%;
+            max-width: 300px;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #ff5c8d;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #ff3b69;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Profile Image Section -->
+        <img src="your-profile-picture.jpg" alt="Your Profile" class="profile-image">
+        
+        <!-- Bio or Intro Section -->
+        <h1>Welcome to My OnlyFans</h1>
+        <p>Get access to exclusive content and more!</p>
+
+        <!-- APK Download Button -->
+        <a href="YOUR_APK_FILE_URL" class="button" download>Download My App</a>
+    </div>
+
+</body>
+</html>
