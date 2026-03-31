@@ -57,7 +57,7 @@
         <p>Get access to exclusive content and more!</p>
 
         <!-- APK Download Button -->
-        <a href="YOUR_APK_FILE_URL" class="button" download>Download My App</a>
+        <a href="blob:https://github.com/b8a94b26-ba8e-4b85-a5ba-c3b8cabd3f85" class="button" download>Download My App</a>
     </div>
 
 </body>
